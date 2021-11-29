@@ -1,0 +1,12 @@
+{
+  "name": "web-scraper",
+  "version": "1.0.0",
+  "description": "Basic Web Scraper",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Zade Awad",
+  "license": "ISC"
+  
+}
